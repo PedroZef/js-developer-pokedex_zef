@@ -14,6 +14,8 @@
 </div>
 <br><br>
 
+## Link: https://pedrozef.github.io/js-developer-pokedex_zef/
+
 ## Tecnologias Utilizadas
 HTML: A estrutura básica da aplicação foi desenvolvida utilizando HTML.
 
