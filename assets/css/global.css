@@ -4,14 +4,14 @@
 }
 
 body {
-    background-color: #f6f8fc;
+    background-color: linear-gradient(to right, #f6f8fc, #058dc2);
 }
 
 .content {
     width: 100vw;
     height: 100vh;
     padding: 1rem;
-    background-color: #fff;
+    background-color: inear-gradient(to right, #f6f8fc, #058dc2);
 }
 
 @media screen and (min-width: 992px) {
