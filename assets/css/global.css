@@ -7,12 +7,11 @@ body {
     background: linear-gradient(to right, #e1d3bc, #6dc0d3);
 }
 
-
 .content {
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
     padding: 1rem;
-    background-color: linear-gradient(to right, #f6f8fc, #058dc2);
+    background: linear-gradient(to right, #f6f8fc, #058dc2);
 }
 
 @media screen and (min-width: 992px) {
